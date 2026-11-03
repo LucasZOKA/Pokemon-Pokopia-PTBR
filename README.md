@@ -1,4 +1,4 @@
-# 🇧🇷 Pokémon Pokopia — Tradução PT-BR beta 1.0
+# 🇧🇷 Pokémon Pokopia — Tradução PT-BR beta 0.9
 
 <div align="center">
 
