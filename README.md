@@ -1,4 +1,4 @@
-# 🇧🇷 Pokémon Pokopia — Tradução PT-BR
+# 🇧🇷 Pokémon Pokopia — Tradução PT-BR beta 1.0
 
 <div align="center">
 
@@ -65,11 +65,35 @@ Acesse a página de lançamentos para baixar a versão mais recente:
 
 - Uma cópia legítima e compatível de Pokémon Pokopia.
 - Um ambiente compatível com a instalação de mods LayeredFS.
-- A versão do jogo indicada nas notas do lançamento.
+- A versão do jogo 2.0.1a
 
-### 🔧 Como instalar
+🔧 Como instalar
 
-As etapas exatas dependem do emulador ou ambiente utilizado. Consulte as instruções específicas que acompanharão o arquivo da tradução na página de lançamentos.
+Baixe o arquivo .zip da tradução na seção Releases.
+
+Abra seu emulador e localize Pokémon Pokopia na lista de jogos.
+
+Clique com o botão direito sobre o jogo.
+
+Selecione Open Mod Data Location.
+
+Extraia o conteúdo do .zip diretamente na pasta que foi aberta.
+
+Pronto! Inicie o jogo e aproveite a tradução em Português Brasileiro! 🇧🇷
+
+📁 Estrutura dos arquivos
+
+Após a instalação, a estrutura deverá ficar assim:
+
+Pasta de mods do jogo/
+└── TraducaoBR/
+    └── romfs/
+        ├── LD_C0_R.BIN
+        └── LI_C0_R.IDX
+
+não extraia o mod dentro de uma pasta adicional. A pasta TraducaoBR deve ficar diretamente no local aberto pelo emulador.
+
+Observação: a tradução foi desenvolvida para a versão compatível de Pokémon Pokopia indicada no lançamento.
 
 **Importante:** o projeto disponibiliza apenas arquivos relacionados à tradução. O jogo original não está incluído.
 
@@ -77,9 +101,11 @@ As etapas exatas dependem do emulador ou ambiente utilizado. Consulte as instru�
 
 ## 🛠️ Ferramentas auxiliares
 
-Durante o desenvolvimento da tradução, foram utilizadas ferramentas auxiliares para localizar, editar e aplicar textos e recursos do jogo.
+Durante o desenvolvimento da tradução, foram utilizadas ferramentas auxiliares ,também criadas por mim, para localizar editar e aplicar textos e recursos do jogo.
 
 As ferramentas disponibilizadas neste repositório são independentes do download principal da tradução e destinam-se a usuários interessados em explorar ou trabalhar com os recursos compatíveis.
+
+Todas as ferramentas são livres para modifica-las e usa-las como quiser.
 
 ### 📂 Downloads das ferramentas
 
