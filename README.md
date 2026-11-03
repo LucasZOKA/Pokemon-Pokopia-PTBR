@@ -117,6 +117,26 @@ Consulte as instruções de cada ferramenta antes de utilizá-la.
 
 ---
 
+## 🐛 Encontrou algum problema na tradução?
+
+Se você encontrar algum erro de tradução, texto em inglês, frase estranha, problema de formatação ou textura incorreta, pode nos ajudar a melhorar o projeto!
+
+### 📝 Como reportar um problema
+
+1. Acesse a aba **[Issues](https://github.com/LucasZOKA/Pokemon-Pokopia-PTBR/issues)** deste repositório.
+2. Clique em **New issue**.
+3. Descreva brevemente o problema encontrado.
+4. **Anexe uma captura de tela** mostrando a frase, menu ou textura com o erro.
+5. Se possível, informe em que parte do jogo o problema aconteceu.
+
+### ❤️ Toda ajuda é bem-vinda!
+
+Este é um projeto feito para a comunidade. Relatos de erros, sugestões de melhorias e contribuições são muito bem-vindos!
+
+Cada problema reportado ajuda a tornar a tradução mais completa e natural para todos os jogadores. 🇧🇷
+
+---
+
 ## ❤️ Créditos e agradecimentos
 
 **Projeto e tradução PT-BR:** [LucasZOKA](https://github.com/LucasZOKA)
